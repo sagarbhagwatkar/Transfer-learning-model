@@ -1,5 +1,5 @@
 # Transfer_learning_model
-This is a vgg19 classifier, it can classify different breeds of animals, basically the weight of vgg19 is imagenet, so it can clasiify upto 1000 different classes. 
+This is a vgg19 classifier, it can classify different breeds of animals, basically the weight of vgg19 is imagenet, so it can classify upto 1000 different classes. 
 *********************************************
 * model was trained on keras application(vgg19) and then saved in h5 file on working directory.(vgg19.ipynb)
 * the trained model was load and flask file was created with required html files(app.py)
